@@ -7,7 +7,7 @@
 
 | 📷 | 📷 | 📷 |
 |----|----|----|
-| ![Gambar 1](path/to/image1.jpg) | ![Gambar 2](path/to/image2.jpg) | ![Gambar 3](path/to/image3.jpg) |
+| ![Gambar 1](/matlab_doc/1.jpg) | ![Gambar 2](/matlab_doc/2.jpg) | ![Gambar 3](/matlab_doc/3.jpg) |
 | *Keterangan gambar 1* | *Keterangan gambar 2* | *Keterangan gambar 3* |
 
 Tambahkan lebih banyak gambar jika diperlukan.
